@@ -89,7 +89,7 @@
     },
     {
       "chainId": 128,
-      "address": "0xcAaB1e4BA67578627f53696D48da81f5D7DC3113",
+      "address": "0x3eD48142824961fd7D86d491a45920bd83a1472d",
       "name": "TXC",
       "symbol": "TXC",
       "decimals": 18,
@@ -97,7 +97,7 @@
     },
     {
       "chainId": 128,
-      "address": "0xC042600F92D164f53BD39272d5bfd510c23F548b",
+      "address": "0x807Dc64c31e7EFf99B358cd627Be461953975667",
       "name": "TXS",
       "symbol": "TXS",
       "decimals": 18,
