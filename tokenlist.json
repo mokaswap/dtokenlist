@@ -86,6 +86,22 @@
       "symbol": "DST",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/mokaswap/dtokenlist/main/dao.png"
+    },
+    {
+      "chainId": 128,
+      "address": "0xcAaB1e4BA67578627f53696D48da81f5D7DC3113",
+      "name": "TXC",
+      "symbol": "TXC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/mokaswap/dtokenlist/main/dao.png"
+    },
+    {
+      "chainId": 128,
+      "address": "0xC042600F92D164f53BD39272d5bfd510c23F548b",
+      "name": "TXS",
+      "symbol": "TXS",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/mokaswap/dtokenlist/main/dao.png"
     }
   ],
   "version": {
