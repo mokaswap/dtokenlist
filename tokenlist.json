@@ -24,6 +24,38 @@
       "logoURI": "https://raw.githubusercontent.com/mokaswap/dtokenlist/main/eth.svg"
     },
     {
+      "name": "Heco-Peg HUSD Token",
+      "address": "0x0298c2b32eae4da002a15f36fdf7615bea3da047",
+      "symbol": "HUSD",
+      "decimals": 8,
+      "chainId": 128,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4779.png"
+    },
+    {
+      "name": "Heco-Peg HDOT Token",
+      "address": "0xa2c49cee16a5e5bdefde931107dc1fae9f7773e3",
+      "symbol": "HDOT",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6636.png"
+    },
+    {
+      "name": "Heco-Peg HFIL Token",
+      "address": "0xae3a768f9ab104c69a7cd6041fe16ffa235d1810",
+      "symbol": "HFIL",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2280.png"
+    },
+    {
+      "name": "Tether COIN",
+      "address": "0x04f535663110a392a6504839beed34e019fdb4e0",
+      "symbol": "HUSDT",
+      "decimals": 6,
+      "chainId": 256,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+    },
+    {
       "chainId": 128,
       "address": "0xBF3dA9338712361caA0100D5a7975D90cDf11Dfc",
       "name": "Heco-Peg HIDT Token",
