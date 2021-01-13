@@ -48,6 +48,14 @@
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2280.png"
     },
     {
+      "name": "Heco-Peg HPT Token",
+      "address": "0xE499Ef4616993730CEd0f31FA2703B92B50bB536",
+      "symbol": "HPT",
+      "decimals": 18,
+      "chainId": 128,
+      "logoURI": "https://raw.githubusercontent.com/mdexSwap/token-icons/main/heco/0xe499ef4616993730ced0f31fa2703b92b50bb536.png"
+    },
+    {
       "name": "Tether COIN",
       "address": "0x04f535663110a392a6504839beed34e019fdb4e0",
       "symbol": "HUSDT",
