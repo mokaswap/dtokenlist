@@ -93,7 +93,7 @@
       "name": "TXC",
       "symbol": "TXC",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/mokaswap/dtokenlist/main/dao.png"
+      "logoURI": "https://raw.githubusercontent.com/mokaswap/dtokenlist/main/BXC.png"
     },
     {
       "chainId": 128,
@@ -101,7 +101,7 @@
       "name": "TXS",
       "symbol": "TXS",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/mokaswap/dtokenlist/main/dao.png"
+      "logoURI": "https://raw.githubusercontent.com/mokaswap/dtokenlist/main/BXS.png"
     }
   ],
   "version": {
